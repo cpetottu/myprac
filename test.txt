@@ -1,2 +1,3 @@
 init
 feature line 1, develop line 1
+feature line 2
