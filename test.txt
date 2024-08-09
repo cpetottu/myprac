@@ -4,3 +4,4 @@ feature line 2, develop line 2
 f3
 f4
 d1
+d2
