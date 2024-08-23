@@ -1,10 +1,1 @@
-init
-feature line 1, develop line 1
-feature line 2, develop line 2
-f3
-f4
 d1
-d2
-d3
-rebase test develop
-rebase test jira-0014
